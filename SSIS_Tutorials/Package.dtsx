@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:refId="Package"
+  DTS:CreationDate="2/11/2019 7:08:44 PM"
+  DTS:CreationName="Microsoft.Package"
+  DTS:CreatorComputerName="AMIT-DESKTOP"
+  DTS:CreatorName="AMIT-DESKTOP\Deodat"
+  DTS:DTSID="{D16B00FD-B5C8-4352-B0E4-6981F3614D01}"
+  DTS:ExecutableType="Microsoft.Package"
+  DTS:LastModifiedProductVersion="15.0.0900.40"
+  DTS:LocaleID="1033"
+  DTS:ObjectName="Package"
+  DTS:PackageType="5"
+  DTS:VersionGUID="{C5248270-D974-4AD6-AF97-FDF28CA8C407}">
+  <DTS:Property
+    DTS:Name="PackageFormatVersion">8</DTS:Property>
+  <DTS:Variables />
+  <DTS:Executables />
+</DTS:Executable>
